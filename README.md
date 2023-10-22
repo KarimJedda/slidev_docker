@@ -3,6 +3,7 @@
 Work with [Slidev](https://sli.dev/). Just run following command in your work folder:
 
 ```bash
+./build.sh
 ./docker_run.sh
 ```
 
